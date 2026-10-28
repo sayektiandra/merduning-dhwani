@@ -25,7 +25,8 @@ Untuk rekaman, demo, atau pertunjukan, Anda juga dapat mencantumkan nama penampi
 Lagu: [Judul Karya]  
 Ditulis oleh: [Nama Pencipta]  
 Sumber: [Tautan ke Karya Asli]  
-Lisensi: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Lisensi: CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
 
 Untuk cover, demo, atau versi adaptasi, Anda juga dapat mencantumkan nama penampil serta menjelaskan perubahan yang dilakukan terhadap karya asli.
 
