@@ -25,7 +25,8 @@ For recordings, demos, or performances, you may also credit the relevant perform
 Song: [Work Title]  
 Written by: [Creator's Name]  
 Source: [Link to the Original Work]  
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+License: CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
 
 For a cover, demo, or adapted version, you may additionally identify the performer and indicate changes made to the original work.
 
